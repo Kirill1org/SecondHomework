@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SecondHomework</string>
+    <string name="indicator_button_text">Indicator Button</string>
+    <string name="next_activity_button_text">Next Activity Button</string>
+    <string name="attach_fragment_button_text">Attach fragment</string>
 </resources>
